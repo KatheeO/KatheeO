@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Katherine.
+- 👀 I’m interested in cybersecurity! Books! Even more books! Programming!...
+- 🌱 I’m currently learning many things... Java, C, Android app developement, how to love myself, hacking, pick your favorite.
+- 📫 How to reach me: here on GitHub. Really.
